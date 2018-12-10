@@ -1,0 +1,27 @@
+C:\Documents and Settings\UtilisateurXp\Local Settings\Application Data\Temporary Projects\Grade_Calculator\bin\Debug\Grade_Calculator.exe
+C:\Documents and Settings\UtilisateurXp\Local Settings\Application Data\Temporary Projects\Grade_Calculator\bin\Debug\Grade_Calculator.pdb
+C:\Documents and Settings\UtilisateurXp\Local Settings\Application Data\Temporary Projects\Grade_Calculator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\UtilisateurXp\Local Settings\Application Data\Temporary Projects\Grade_Calculator\obj\x86\Debug\Grade_Calculator.Form1.resources
+C:\Documents and Settings\UtilisateurXp\Local Settings\Application Data\Temporary Projects\Grade_Calculator\obj\x86\Debug\Grade_Calculator.Properties.Resources.resources
+C:\Documents and Settings\UtilisateurXp\Local Settings\Application Data\Temporary Projects\Grade_Calculator\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\UtilisateurXp\Local Settings\Application Data\Temporary Projects\Grade_Calculator\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\UtilisateurXp\Local Settings\Application Data\Temporary Projects\Grade_Calculator\obj\x86\Debug\Grade_Calculator.exe
+C:\Documents and Settings\UtilisateurXp\Local Settings\Application Data\Temporary Projects\Grade_Calculator\obj\x86\Debug\Grade_Calculator.pdb
+C:\Documents and Settings\UtilisateurXp\Bureau\C# Grade Culculator\Grade_Calculator\Grade_Calculator\obj\x86\Debug\Grade_Calculator.exe
+C:\Documents and Settings\UtilisateurXp\Bureau\C# Grade Culculator\Grade_Calculator\Grade_Calculator\obj\x86\Debug\Grade_Calculator.pdb
+C:\Documents and Settings\UtilisateurXp\Bureau\C# Grade Culculator\Grade_Calculator\Grade_Calculator\bin\Debug\Grade_Calculator.exe
+C:\Documents and Settings\UtilisateurXp\Bureau\C# Grade Culculator\Grade_Calculator\Grade_Calculator\bin\Debug\Grade_Calculator.pdb
+C:\Documents and Settings\UtilisateurXp\Bureau\C# Grade Culculator\Grade_Calculator\Grade_Calculator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\UtilisateurXp\Bureau\C# Grade Culculator\Grade_Calculator\Grade_Calculator\obj\x86\Debug\Grade_Calculator.Form1.resources
+C:\Documents and Settings\UtilisateurXp\Bureau\C# Grade Culculator\Grade_Calculator\Grade_Calculator\obj\x86\Debug\Grade_Calculator.Properties.Resources.resources
+C:\Documents and Settings\UtilisateurXp\Bureau\C# Grade Culculator\Grade_Calculator\Grade_Calculator\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\UtilisateurXp\Bureau\C# Grade Culculator\Grade_Calculator\Grade_Calculator\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Pc\Desktop\C# Grade Culculator\Grade_Calculator\Grade_Calculator\bin\Debug\Grade_Calculator.exe
+C:\Users\Pc\Desktop\C# Grade Culculator\Grade_Calculator\Grade_Calculator\bin\Debug\Grade_Calculator.pdb
+C:\Users\Pc\Desktop\C# Grade Culculator\Grade_Calculator\Grade_Calculator\obj\x86\Debug\Grade_Calculator.Form1.resources
+C:\Users\Pc\Desktop\C# Grade Culculator\Grade_Calculator\Grade_Calculator\obj\x86\Debug\Grade_Calculator.Properties.Resources.resources
+C:\Users\Pc\Desktop\C# Grade Culculator\Grade_Calculator\Grade_Calculator\obj\x86\Debug\Grade_Calculator.csproj.GenerateResource.cache
+C:\Users\Pc\Desktop\C# Grade Culculator\Grade_Calculator\Grade_Calculator\obj\x86\Debug\Grade_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Desktop\C# Grade Culculator\Grade_Calculator\Grade_Calculator\obj\x86\Debug\Grade_Calculator.exe
+C:\Users\Pc\Desktop\C# Grade Culculator\Grade_Calculator\Grade_Calculator\obj\x86\Debug\Grade_Calculator.pdb
+C:\Users\Pc\Desktop\C# Grade Culculator\Grade_Calculator\Grade_Calculator\obj\x86\Debug\Grade_Calculator.csprojAssemblyReference.cache
